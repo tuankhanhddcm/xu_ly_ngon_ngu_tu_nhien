@@ -1,0 +1,2 @@
+Chị Thúy đưa thẻ visa cho tài xế taxi và đọc mật khẩu để thanh toán cước phí vận chuyển.
+Khi trở về bãi xe phát hiện khách quên ví anh này lấy cắp thẻ tín dụng và đi rút tiền

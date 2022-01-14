@@ -1,0 +1,3 @@
+Những tài liệu này bắt nguồn từ một vụ kiện đầu năm 2015 của ngân hàng Ecuador Banco del Austro BDA tại Hồng Kông chống lại các công ty nhận hay chịu trách nhiệm về số tiền hơn 9 triệu USD trong tổng số tiền mất cắp.
+Được biết các tin tặc trộm tiền từ ngân hàng Banco del Austro bằng phương thức sử dụng lỗ hổng trong hệ thống tin nhắn toàn cầu của Hội Viễn thông Tài chính Liên ngân hàng Thế giới SWIFT để thực hiện các lệnh chuyển tiền.
+Trong vụ trộm tại ngân hàng Banco del Austro tiền được chuyển bởi ngân hàng Mỹ Wells Fargo dựa trên các tin nhắn SWIFT xác thực

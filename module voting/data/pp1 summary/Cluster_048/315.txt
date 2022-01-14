@@ -1,0 +1,3 @@
+Nó bao gồm các mã SWIFT cho các chi nhánh Hà Nội và New York của Ngân hàng Công thương Trung Quốc ngân hàng lớn nhất Nhật Bản Bank of Tokyo Mitsubishi ngân hàng lớn nhất Ý UniCredit SpA và các ngân hàng khác.
+Tại Việt Nam ông Lê Mạnh Hùng Cục trưởng Cục Công nghệ tin học Ngân hàng Nhà nước cho biết ngay sau khi nhận được thông tin từ TPBank Ngân hàng Nhà nước đã yêu cầu các ngân hàng thương mại sử dụng SWIFT ở Việt Nam rà soát và báo cáo.
+Ngân hàng Nhà nước đã liên hệ làm việc với đối tác ủy quyền của SWIFT tại Việt Nam Công ty Blitz tại Singapore để cập nhật phiên bản mới thêm nhiều tính năng bảo mật cấp cao nhằm tăng cường đảm bảo trước các cuộc tấn công của hacker từ bên ngoài cho các ngân hàng tại Việt Nam có sử dụng dịch vụ của SWIFT.
